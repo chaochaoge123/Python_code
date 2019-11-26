@@ -5,6 +5,8 @@ import django.dispatch
 from django.dispatch import receiver
 from django.http import JsonResponse
 
+from django.db.backends.mysql import operations,base
+
 work_done = django.dispatch.Signal(providing_args=['path', 'time'])
 
 
