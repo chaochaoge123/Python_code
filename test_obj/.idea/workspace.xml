@@ -33,20 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_obj/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+            <state relative-caret-position="268">
+              <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_obj/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="288">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding>
                 <element signature="e#632#664#0" expanded="true" />
               </folding>
@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/test_obj/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/test_one/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/test_one/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -91,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/test_one/models/user_info.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -101,15 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/work/untitled1/venv/Lib/site-packages/django/db/backends/mysql/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -151,12 +142,12 @@
         <option value="$PROJECT_DIR$/test_one/tools/common_response.py" />
         <option value="D:/work/untitled1/venv/Lib/site-packages/django/db/backends/mysql/base.py" />
         <option value="D:/work/untitled1/venv/Lib/site-packages/django/db/backends/mysql/operations.py" />
-        <option value="$PROJECT_DIR$/test_obj/urls.py" />
         <option value="$PROJECT_DIR$/test_one/views.py" />
         <option value="$PROJECT_DIR$/test_one/qqc_settings.py" />
         <option value="$PROJECT_DIR$/test_one/models/__init__.py" />
-        <option value="$PROJECT_DIR$/test_obj/settings.py" />
         <option value="$PROJECT_DIR$/test_one/models/user_info.py" />
+        <option value="$PROJECT_DIR$/test_obj/urls.py" />
+        <option value="$PROJECT_DIR$/test_obj/settings.py" />
       </list>
     </option>
   </component>
@@ -170,8 +161,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="225" />
-    <option name="y" value="165" />
+    <option name="x" value="184" />
+    <option name="y" value="202" />
     <option name="width" value="1300" />
     <option name="height" value="850" />
   </component>
@@ -285,8 +276,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="329" width="1300" height="850" extended-state="0" />
-    <editor active="true" />
+    <frame x="184" y="202" width="1300" height="850" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1733871" side_tool="true" weight="0.36412317" />
@@ -294,10 +284,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32959327" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8266129" weight="0.1823282" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.88225806" weight="0.30014026" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25080645" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.88225806" visible="true" weight="0.30014026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25080645" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="manage.py@test_obj" order="8" visible="true" weight="0.28611502" />
+      <window_info anchor="bottom" id="manage.py@test_obj" order="8" weight="0.28611502" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.0072580646" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -521,17 +511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_obj/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_one/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
@@ -541,7 +524,7 @@
     <entry file="file://$PROJECT_DIR$/test_one/models/user_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -551,7 +534,7 @@
     <entry file="file://$PROJECT_DIR$/test_one/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -561,17 +544,24 @@
     <entry file="file://$PROJECT_DIR$/test_obj/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_obj/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="288">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding>
             <element signature="e#632#664#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_obj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
         </state>
       </provider>
     </entry>

@@ -91,6 +91,21 @@ DATABASES = {
 
 }
 
+# redis配置
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django_redis.cache.RedisCache',
+        'LOCATION': 'redis://172.29.32.104:6379',
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+            "PASSWORD": "",
+        },
+    },
+}
+
+REDIS_TIMEOUT = 7 * 24 * 60 * 60
+CUBES_REDIS_TIMEOUT = 60 * 60
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
